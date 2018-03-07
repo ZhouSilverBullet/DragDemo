@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
         }
         System.out.println(sb);
         System.out.println(sb);
+        System.out.println(sb);
         return sb.toString();
 
     }
