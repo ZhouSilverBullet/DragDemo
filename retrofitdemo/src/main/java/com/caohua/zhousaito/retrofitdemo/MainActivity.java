@@ -54,7 +54,9 @@ public class MainActivity extends AppCompatActivity {
             sb.append("\\u" + unicode);
         }
         System.out.println(sb);
+        System.out.println(sb);
         return sb.toString();
+
     }
 
     private void login() {
